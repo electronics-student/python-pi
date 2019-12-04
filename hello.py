@@ -1,5 +1,7 @@
+#This is first program
 
 
+def main(msg):
+    print(msg)
 
-print("hiyazar")
-
+print("hipeople")
