@@ -2,7 +2,7 @@
 
 
 def main(msg):
-    //no longer needed comment
+    #no longer needed comment
  refs/remotes/origin/master
     print(msg)
 
