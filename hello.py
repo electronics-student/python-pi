@@ -2,10 +2,11 @@
 
 
 def main(msg):
-    //extras comment
-     //Adding diiferent comment
-     //printamessage 
+    //no longer needed comment
  refs/remotes/origin/master
     print(msg)
+
+def sec():
+    print("hi")
 
 print("hipeople")
