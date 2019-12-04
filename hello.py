@@ -2,6 +2,8 @@
 
 
 def main(msg):
+
+     //printamessage 
     print(msg)
 
 print("hipeople")
